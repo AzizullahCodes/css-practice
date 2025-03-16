@@ -1,0 +1,36 @@
+/* ol {list-style-type: none;}
+
+ul {width:150px;}
+li{margin:10px;}
+ul .illuminations{ list-style-position: outside;}
+ul.season{list-style-position: inside;} */
+/* .outside{list-style-position:outside;}
+.inside{list-style-position:inside;} */
+/* ul {list-style-type:circle;
+
+list-style-position: inside;
+width:300px;}
+li{ margin:10px 0px 0px 0px;} */
+
+/* td { background-color: blue;
+padding:55px;
+border: 2px solid black;}
+
+.one {border-collapse:collapse;} */
+*{margin:0;
+padding:0;
+box-sizing: border-box;
+font-family: Arial;}
+body{display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-color: #006666;}
+
+.container{background-color: white;
+border-radius: 10px;}
+
+.container h1{display: flex;
+justify-content: center;}
+
+.container input{margin:10px}
