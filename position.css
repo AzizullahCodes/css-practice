@@ -1,0 +1,42 @@
+*{margin:0;
+padding:0;
+box-sizing: border-box;
+font-family: sans-serif;
+padding:0 20px;}
+/* Header */
+ .header {font-weight: bold;
+font-size: 50px;
+text-align: center;
+margin-top: 20px;}
+
+/* navbar */
+/* navbar {background-color: aquamarine;} */
+ul {display: flex;
+justify-content: center;
+gap:130px;
+background-color: aquamarine;
+padding:40px 0px;
+}
+
+li {list-style: none;
+font-weight: bold;
+font-size: 20px;}
+
+/* content */
+
+.content {margin-top: 30px;
+    margin-bottom: 150px;
+}
+/* paragraph */
+p{background-color:aquamarine;
+padding-top:30px;
+color:black;
+font-size:20px;
+margin-bottom: 40px;}
+
+p:first-letter{font-size: 50px;}
+/* navbar position */
+navbar {position:fixed;
+    bottom:10px;
+    left:92px;
+}

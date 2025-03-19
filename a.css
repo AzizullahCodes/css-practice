@@ -1,0 +1,22 @@
+.fixed-nav {position:fixed;}
+
+ .relative-box {position:relative;
+right:50px;
+top:50px;
+}
+
+.sticky-heading {position:sticky;
+    
+top:10px;
+right:500px;}
+
+h4 {background-color: blue;
+font-size: 100px;
+position:absolute;
+right:0;
+top:1000px;}
+
+h6 {font-size: 100px;
+background-color: red;
+position:relative;
+top:100px;}

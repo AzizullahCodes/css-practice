@@ -1,0 +1,23 @@
+.col-1 {width: 400px;
+height: 400px;
+border:2px solid black;}
+
+.col-2 {width: 400px;
+    height: 400px;
+    border:2px solid black
+
+}
+
+.col-3 {width: 400px;
+    height: 400px;
+    border:2px solid black;}
+
+    .container {display: flex;
+    }
+
+    h1 {font-size: 50px;
+    text-align: center;}
+
+    .col-2 {position:relative;
+    top:50px;
+right:40px;}
